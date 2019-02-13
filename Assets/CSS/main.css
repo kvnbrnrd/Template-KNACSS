@@ -1,0 +1,150 @@
+header
+{
+    background-color: #BE2529;
+}
+
+.wrapper
+{
+    background-color: #D53C40;
+}
+
+.flex-container
+{
+    background-color: rgb(235, 235, 235);
+}
+
+h2
+{
+    font-weight: bold;
+}
+
+
+li
+{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.whi, #about, #avis
+{
+    color: rgb(235, 235, 235);
+}
+
+#port
+{
+    text-transform: uppercase;
+}
+
+/* ******************* Fin Couleurs et Polices ****************** */
+
+.logo
+{
+    display: inline-block;
+    position: absolute;
+    top: 2rem;
+    left: 3rem;
+}
+
+
+.nav-button
+{
+    display: none;
+}
+
+
+.txtright
+{
+    text-align: right !important;
+}
+
+#switchKnack, #switchChoucroute
+{
+    cursor: pointer;
+}
+
+#switchKnack:hover, #switchChoucroute:hover
+{
+    text-decoration-line: underline;
+}
+
+.txtright2
+{
+    text-align: right;
+}
+
+/* ******************* Fin Dispostion et Style ****************** */
+
+
+@media only screen and (max-width: 1200px) {
+
+    #bandeau
+    {
+        position: relative;
+        min-height: 10rem;
+    }
+
+    li
+    {
+
+        width: 100%;
+        font-size: 1.7rem;
+    }
+
+    .logo
+    {
+    display: inline-block;
+    position: absolute;
+    top: 1rem;
+    left: 2rem;
+    }
+
+    .w80
+    {
+        width: 100%;
+    }
+
+    .pas
+    {
+        padding: 0.5rem;
+    }
+
+    .pam
+    {
+        padding: 1rem;
+    }
+
+
+    .pal
+    {
+        padding: 1.5rem;
+    }
+
+
+    .nav-button
+    {
+        display: inline-block;
+        position: absolute;
+        top: 3rem;
+        right: 2rem;
+    }
+
+    .txtright
+    {
+        text-align: left !important;
+    }
+
+
+    .nav{
+        display: none;
+        width: 50vw;
+        margin-top: 1rem;
+        padding: 1rem;
+      }
+      .nav.is-opened{
+        display: block;
+        margin-top: 5rem;
+      }
+
+  }
+
+  /* ******************* Fin Media Queries ****************** */
