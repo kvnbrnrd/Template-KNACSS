@@ -54,19 +54,19 @@
                 <div class="pam">
                     <img src="../Assets/Images/knacss.png" alt="">
                     <p class="pas"> KNACSS, c’est un peu comme une feuille de style CSS « reset » sur-vitaminée qui permet de commencer un projet à partir de zéro tout en tenant compte de bonnes pratiques générales (accessibilité, performance, responsive webdesign).</p>
-                    <a href="https://www.knacss.com/"><button class="btn--primary">Voir plus</button></a>
+                    <a href="https://www.knacss.com/"><button class="btn--warning">Voir plus</button></a>
                 </div>
                 <div class="pam">
                     <img src="../Assets/Images/knacss.png" alt="">
                     <p class="pas">KNACSS prend en charge les styles de base, mais également la typographie, les modèles de boîte, les alignements et positionnements d’éléments, les grilles de mise en page, dans l’esprit d’être adapté à toutes les tailles d’écran (responsive). Le tout automatiquement, en l'appliquant simplement sur votre structure HTML. </p>
-                    <a href="https://www.knacss.com/doc.html"><button class="btn--primary">Voir plus</button></a>
+                    <a href="https://www.knacss.com/doc.html"><button class="btn--warning">Voir plus</button></a>
                 </div>
                 <div class="pam">
                     <img src="../Assets/Images/knacss.png" alt="">
                     <p class="pas">KNACSS version 7 est - dans sa grande majorité - entièrement compatible avec l'ensemble des navigateurs desktop et mobiles à partir d'IE10 inclus.
 
                     Seule exception notable, le système de grilles de KNACSS est conçu à partir de la spécification CSS Grid Layout, reconnue correctement chez Microsoft qu'à partir de sa version Edge 16 (sorti en fin 2017).</p>
-                    <a href="https://www.knacss.com/assets/pdf/knacss7-cheatsheet.pdf"><button class="btn--primary">Voir plus</button></a>
+                    <a href="https://www.knacss.com/assets/pdf/knacss7-cheatsheet.pdf"><button class="btn--warning">Voir plus</button></a>
                 </div>
         </section>
 
